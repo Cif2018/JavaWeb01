@@ -1,0 +1,142 @@
+@charset "ISO-8859-1";
+
+li {
+	color: blue;
+	font-size: 27px;
+}
+
+h1 {
+	font-family: Tahoma, Arial, sans-serif;
+	color: white;
+	background-color: #525D76;
+	font-size: 22px;
+}
+
+h2 {
+	font-family: Tahoma, Arial, sans-serif;
+	color: white;
+	background-color: #525D76;
+	font-size: 16px;
+}
+
+h3 {
+	font-family: Tahoma, Arial, sans-serif;
+	color: white;
+	background-color: #525D76;
+	font-size: 14px;
+}
+
+body {
+	font-family: Tahoma, Arial, sans-serif;
+	color: black;
+	background-color: #CACFD2;
+}
+
+b {
+	font-family: Tahoma, Arial, sans-serif;
+	color: white;
+	background-color: #525D76;
+}
+
+p {
+	font-family: Tahoma, Arial, sans-serif;
+	background: white;
+	color: black;
+	font-size: 12px;
+}
+
+a {
+	color: black;
+}
+
+a.name {
+	color: black;
+}
+
+.line {
+	height: 1px;
+	background-color: #525D76;
+	border: none;
+}
+
+table {
+	width: 100%;
+}
+
+td.page-title {
+	text-align: center;
+	vertical-align: top;
+	font-family: sans-serif, Tahoma, Arial;
+	font-weight: bold;
+	background: white;
+	color: black;
+}
+
+td.title {
+	text-align: left;
+	vertical-align: top;
+	font-family: sans-serif, Tahoma, Arial;
+	font-style: italic;
+	font-weight: bold;
+	background: #D2A41C;
+}
+
+td.header-left {
+	text-align: left;
+	vertical-align: top;
+	font-family: sans-serif, Tahoma, Arial;
+	font-weight: bold;
+	background: #FFDC75;
+}
+
+td.header-center {
+	text-align: center;
+	vertical-align: top;
+	font-family: sans-serif, Tahoma, Arial;
+	font-weight: bold;
+	background: #FFDC75;
+}
+
+td.row-left {
+	text-align: left;
+	vertical-align: middle;
+	font-family: sans-serif, Tahoma, Arial;
+	color: black;
+}
+
+td.row-center {
+	text-align: center;
+	vertical-align: middle;
+	font-family: sans-serif, Tahoma, Arial;
+	color: black;
+}
+
+td.row-right {
+	text-align: right;
+	vertical-align: middle;
+	font-family: sans-serif, Tahoma, Arial;
+	color: black;
+}
+
+TH {
+	text-align: center;
+	vertical-align: top;
+	font-family: sans-serif, Tahoma, Arial;
+	font-weight: bold;
+	background: #FFDC75;
+}
+
+TD {
+	text-align: center;
+	vertical-align: middle;
+	font-family: sans-serif, Tahoma, Arial;
+	color: black;
+}
+
+form {
+	margin: 1;
+}
+
+form.inline {
+	display: inline;
+}
